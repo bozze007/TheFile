@@ -1,0 +1,12 @@
+D:\Visual Project\UAS PV\bin\Debug\UAS PV.exe.config
+D:\Visual Project\UAS PV\bin\Debug\UAS PV.exe
+D:\Visual Project\UAS PV\bin\Debug\UAS PV.pdb
+D:\Visual Project\UAS PV\bin\Debug\UAS PV.xml
+D:\Visual Project\UAS PV\obj\Debug\UAS PV.vbproj.AssemblyReference.cache
+D:\Visual Project\UAS PV\obj\Debug\UAS_PV.Resources.resources
+D:\Visual Project\UAS PV\obj\Debug\UAS PV.vbproj.GenerateResource.cache
+D:\Visual Project\UAS PV\obj\Debug\UAS PV.vbproj.CoreCompileInputs.cache
+D:\Visual Project\UAS PV\obj\Debug\UAS PV.exe
+D:\Visual Project\UAS PV\obj\Debug\UAS PV.xml
+D:\Visual Project\UAS PV\obj\Debug\UAS PV.pdb
+D:\Visual Project\UAS PV\obj\Debug\UAS_PV.TheFile.resources
